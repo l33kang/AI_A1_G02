@@ -1,7 +1,7 @@
 # Musanze Cooperative Harvest and Dispatch Decision Lab
 
-**Group:** AI-G01  
-**Course:** SWE 3513 — Artificial Intelligence  
+**Group:** Group2
+**Course:** Artificial Intelligence  
 **Assignment:** 1  
 
 ## Repository
