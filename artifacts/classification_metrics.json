@@ -1,0 +1,39 @@
+{
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "seed": 42,
+    "group_code": "AI-G01",
+    "test_size": 0.2,
+    "n_train": 24,
+    "n_test": 6,
+    "class_distribution_train": [
+      15,
+      9
+    ],
+    "class_distribution_test": [
+      4,
+      2
+    ]
+  },
+  "confusion_matrix": [
+    [
+      4,
+      0
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "feature_names": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ]
+}
